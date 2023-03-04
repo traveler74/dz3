@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+    font-family: "Calibri";
+    font-size: 20px;
+}
+
+ul li{
+    font-family: "Calibri";
+    font-size: 20px;
+}
+
+.list1{
+    list-style-image: url("4.png");
+}
+
+.list2{
+    list-style-image: url("44.png");
+}
+
+.list3{
+    list-style-image: url("444.png");
+}
+
+.list4{
+    list-style-image: url("4444.png");
+}
+
+.list5{
+    list-style-image: url("44444.png");
+}
